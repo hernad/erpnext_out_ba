@@ -2,7 +2,7 @@
 
 Cloud computing brings great benefits such as affordability, scalability and manageability for businesses, especially for small and medium enterprises (SMEs). That's one truism Mumbai-based Neural Integrated Systems had in mind while choosing ERPNext.
 
-![Neural Integrated Systems](/assets/erpnext_com/images/stories/tarun-gupta-neural.jpg)
+![Neural Integrated Systems](/assets/erpnext_out_ba/images/stories/tarun-gupta-neural.jpg)
 
 #### Company and Products
 

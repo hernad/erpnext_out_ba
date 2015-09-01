@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
-app_name = "erpnext_com"
+app_name = "erpnext_out_ba"
 app_title = "ERPNext.com"
 app_publisher = "Frappe"
 app_description = "ERPNext.com website"
@@ -29,12 +29,12 @@ website_context = {
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/erpnext_com/css/erpnext_com.css"
-# app_include_js = "/assets/erpnext_com/js/erpnext_com.js"
+# app_include_css = "/assets/erpnext_out_ba/css/erpnext_out_ba.css"
+# app_include_js = "/assets/erpnext_out_ba/js/erpnext_out_ba.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/erpnext_com/css/erpnext_com.css"
-web_include_js = "/assets/erpnext_com/js/payment.js"
+# web_include_css = "/assets/erpnext_out_ba/css/erpnext_out_ba.css"
+web_include_js = "/assets/erpnext_out_ba/js/payment.js"
 
 # Home Pages
 # ----------
@@ -56,14 +56,14 @@ home_page = "index"
 # Installation
 # ------------
 
-# before_install = "erpnext_com.install.before_install"
-# after_install = "erpnext_com.install.after_install"
+# before_install = "erpnext_out_ba.install.before_install"
+# after_install = "erpnext_out_ba.install.after_install"
 
 # Desk Notifications
 # ------------------
 # See frappe.core.notifications.get_notification_config
 
-# notification_config = "erpnext_com.notifications.get_notification_config"
+# notification_config = "erpnext_out_ba.notifications.get_notification_config"
 
 # Permissions
 # -----------
@@ -94,32 +94,32 @@ home_page = "index"
 
 # scheduler_events = {
 # 	"all": [
-# 		"erpnext_com.tasks.all"
+# 		"erpnext_out_ba.tasks.all"
 # 	],
 # 	"daily": [
-# 		"erpnext_com.tasks.daily"
+# 		"erpnext_out_ba.tasks.daily"
 # 	],
 # 	"hourly": [
-# 		"erpnext_com.tasks.hourly"
+# 		"erpnext_out_ba.tasks.hourly"
 # 	],
 # 	"weekly": [
-# 		"erpnext_com.tasks.weekly"
+# 		"erpnext_out_ba.tasks.weekly"
 # 	]
 # 	"monthly": [
-# 		"erpnext_com.tasks.monthly"
+# 		"erpnext_out_ba.tasks.monthly"
 # 	]
 # }
 
 # Testing
 # -------
 
-# before_tests = "erpnext_com.install.before_tests"
+# before_tests = "erpnext_out_ba.install.before_tests"
 
 # Overriding Whitelisted Methods
 # ------------------------------
 #
 # override_whitelisted_methods = {
-# 	"frappe.desk.doctype.event.event.get_events": "erpnext_com.event.get_events"
+# 	"frappe.desk.doctype.event.event.get_events": "erpnext_out_ba.event.get_events"
 # }
 
 fixtures = ["Contact Us Settings"]

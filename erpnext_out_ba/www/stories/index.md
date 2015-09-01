@@ -11,19 +11,19 @@
 		<div class="col-xs-4">
 			<div class="inner">
 				<a href="/stories/union-global">
-					<img src="/assets/erpnext_com/images/stories/laurence.jpg" class='img-responsive'></a>
+					<img src="/assets/erpnext_out_ba/images/stories/laurence.jpg" class='img-responsive'></a>
 			</div>
 		</div>
 		<div class="col-xs-4">
 			<div class="inner">
 				<a href="/stories/rigpl">
-					<img src="/assets/erpnext_com/images/stories/aditya-duggal.png" class='img-responsive'></a>
+					<img src="/assets/erpnext_out_ba/images/stories/aditya-duggal.png" class='img-responsive'></a>
 			</div>
 		</div>
 		<div class="col-xs-4">
 			<div class="inner">
 				<a href="/stories/alcon">
-					<img src="/assets/erpnext_com/images/stories/zel-ortiz.png" class='img-responsive'></a>
+					<img src="/assets/erpnext_out_ba/images/stories/zel-ortiz.png" class='img-responsive'></a>
 			</div>
 		</div>
 	</div>
@@ -31,19 +31,19 @@
 		<div class="col-xs-4">
 			<div class="inner">
 				<a href="/stories/dogs-love-it">
-					<img src="/assets/erpnext_com/images/stories/becht.jpg" class='img-responsive'></a>
+					<img src="/assets/erpnext_out_ba/images/stories/becht.jpg" class='img-responsive'></a>
 			</div>
 		</div>
 		<div class="col-xs-4">
 			<div class="inner">
 				<a href="/stories/fritzing">
-					<img src="/assets/erpnext_com/images/stories/fritzing-ohs.png" class='img-responsive'></a>
+					<img src="/assets/erpnext_out_ba/images/stories/fritzing-ohs.png" class='img-responsive'></a>
 			</div>
 		</div>
 		<div class="col-xs-4">
 			<div class="inner">
 				<a href="/stories/neural">
-					<img src="/assets/erpnext_com/images/stories/tarun-gupta-neural.jpg" class='img-responsive'></a>
+					<img src="/assets/erpnext_out_ba/images/stories/tarun-gupta-neural.jpg" class='img-responsive'></a>
 			</div>
 		</div>
 	</div>
@@ -51,13 +51,13 @@
 		<div class="col-xs-4">
 			<div class="inner">
 				<a href="/stories/city-glass">
-					<img src="/assets/erpnext_com/images/stories/hisham_farid.jpg" class='img-responsive'></a>
+					<img src="/assets/erpnext_out_ba/images/stories/hisham_farid.jpg" class='img-responsive'></a>
 			</div>
 		</div>
 		<div class="col-xs-4">
 			<div class="inner">
 				<a href="/stories/grupo-realize">
-					<img src="/assets/erpnext_com/images/stories/max_morais.jpg" class='img-responsive'></a>
+					<img src="/assets/erpnext_out_ba/images/stories/max_morais.jpg" class='img-responsive'></a>
 			</div>
 		</div>
 		<div class="col-xs-4">

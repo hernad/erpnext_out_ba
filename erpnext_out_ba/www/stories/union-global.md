@@ -8,7 +8,7 @@ Union Global Marketing Corp - Phillipines, is in the business of electronics and
 
 His interview excerpts are given below in question and answer form.
 
-<img src="/assets/erpnext_com/images/stories/laurence.jpg" class="img-responsive" style="max-width: 300px;">
+<img src="/assets/erpnext_out_ba/images/stories/laurence.jpg" class="img-responsive" style="max-width: 300px;">
 
 #### From the day you joined to the current day, what has changed in the company?
 
@@ -16,7 +16,7 @@ Automation. We came from standalone custom-built Windows programs used mainly fo
 
 The benefits of cross-location automation happened when we: (1) computerized our processes, resulting in more accurate analytics of our business results and issues, (2) ERPNext brought about a huge improvement in allowing us to roll-out our system and business processes to off-site locations without the headache of setting up additional servers and managing network infrastructure. Because of this we have aligned how we do things regardless of site location.
 
-<img src="/assets/erpnext_com/images/erpnext/unionglobal-coffeemaker.jpg" class="img-responsive" style="max-width: 200px;">
+<img src="/assets/erpnext_out_ba/images/erpnext/unionglobal-coffeemaker.jpg" class="img-responsive" style="max-width: 200px;">
 
 #### What are the business challenges which you face? How do you overcome them?
 

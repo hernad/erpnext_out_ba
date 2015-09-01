@@ -52,7 +52,7 @@
 		<h4>Documentation</h4>
 	</div>
 	<div class="col-md-8">
-		<a href="https://github.com/frappe/erpnext_com" target="_blank">ERPNext.com</a> and <a href="https://github.com/frappe/frappe_io" target="_blank">Frappe.io</a> is the hub for information about Frappe and ERPNext technologies. Help make our documentation better by writing new content, correcting existing material or translating content into new languages.
+		<a href="https://github.com/frappe/erpnext_out_ba" target="_blank">ERPNext.com</a> and <a href="https://github.com/frappe/frappe_io" target="_blank">Frappe.io</a> is the hub for information about Frappe and ERPNext technologies. Help make our documentation better by writing new content, correcting existing material or translating content into new languages.
 	</div>
 </div>
 <hr>
@@ -61,7 +61,7 @@
 		<h4>Web Development</h4>
 	</div>
 	<div class="col-md-8">
-		Our web sites are open for web developers to hack on. Find a web site project to get started on. Our two main sites are <a href="https://github.com/frappe/erpnext_com" target="_blank">erpnext.com</a> and <a href="https://github.com/frappe/frappe_io" target="_blank">frappe.io</a>. (Links to source repositories).
+		Our web sites are open for web developers to hack on. Find a web site project to get started on. Our two main sites are <a href="https://github.com/frappe/erpnext_out_ba" target="_blank">erpnext.com</a> and <a href="https://github.com/frappe/frappe_io" target="_blank">frappe.io</a>. (Links to source repositories).
 	</div>
 </div>
 <hr>
