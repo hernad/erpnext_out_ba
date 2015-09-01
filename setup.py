@@ -4,11 +4,11 @@ import os
 version = '0.0.1'
 
 setup(
-    name='erpnext_out_ba',
+    name='erpnext.out.ba',
     version=version,
-    description='ERPNext.com website',
-    author='Frappe',
-    author_email='info@erpnext.com',
+    description='ERPNext.out.ba website',
+    author='bring.out.ba',
+    author_email='hernad@bring.out.ba',
     packages=find_packages(),
     zip_safe=False,
     include_package_data=True,
